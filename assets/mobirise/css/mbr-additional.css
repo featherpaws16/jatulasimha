@@ -4400,6 +4400,9 @@ body {
 .cid-rukTkSwx0G .mbr-section-subtitle {
   color: #393f4d;
 }
+.cid-rukTkSwx0G H2 {
+  text-align: center;
+}
 .cid-rukWndRNuj {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -4457,7 +4460,7 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   position: relative;
-  background-color: #c2d3fd;
+  background-color: #feda6a;
 }
 .cid-rul104wnHM p {
   color: #767676;
@@ -6654,7 +6657,7 @@ body {
   color: #feda6a !important;
 }
 .cid-rt962H0vJ6 {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 15px;
   background-color: #393f4d;
 }
@@ -6662,7 +6665,7 @@ body {
   color: #393f4d;
 }
 .cid-rukPzb0rpV {
-  padding-top: 15px;
+  padding-top: 45px;
   padding-bottom: 15px;
   background-color: #feda6a;
 }
