@@ -1498,7 +1498,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #05386b;
+  background-color: #feda6a;
 }
 .cid-rstbD7YNKz button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1787,8 +1787,8 @@ body {
   }
 }
 .cid-rt962H0vJ6 {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #393f4d;
 }
 .cid-rt962H0vJ6 .media-container-row .mbr-text {
@@ -2101,7 +2101,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #05386b;
+  background-color: #feda6a;
 }
 .cid-rt2mFgeHP8 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2346,8 +2346,8 @@ body {
   color: #393f4d;
 }
 .cid-rt95e09EMx {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #393f4d;
 }
 .cid-rt95e09EMx .media-container-row .mbr-text {
@@ -3057,8 +3057,8 @@ body {
   color: #393f4d;
 }
 .cid-rt93zEcx5m {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #393f4d;
 }
 .cid-rt93zEcx5m .media-container-row .mbr-text {
@@ -3619,7 +3619,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #05386b;
+  background-color: #feda6a;
 }
 .cid-qTkzRZLJNu button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3853,30 +3853,11 @@ body {
   color: #393f4d;
 }
 .cid-rt91rHwVLr {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #393f4d;
 }
 .cid-rt91rHwVLr .media-container-row .mbr-text {
-  color: #393f4d;
-}
-.cid-rt92Oq9EC2 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #c2d3fd;
-}
-.cid-rt92Oq9EC2 h1 {
-  color: #616161;
-}
-.cid-rt92Oq9EC2 h2,
-.cid-rt92Oq9EC2 h3,
-.cid-rt92Oq9EC2 p {
-  color: #767676;
-}
-.cid-rt92Oq9EC2 .mbr-section-subtitle {
-  font-style: italic;
-}
-.cid-rt92Oq9EC2 H3 {
   color: #393f4d;
 }
 .cid-ru343Otm87 {
@@ -6657,7 +6638,7 @@ body {
   color: #feda6a !important;
 }
 .cid-rt962H0vJ6 {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #393f4d;
 }
